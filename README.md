@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sukanya Mukherjee
 - 👀 I’m interested in Business Analytics
-- 🌱 I’m currently learning Numpy, Pandas, and data visualization
+- 🌱 I’m currently learning Numpy, Pandas, SQL, SAS and Tableau
 - 💞️ I’m looking to collaborate on Assignments and Open Projects
 - 📫 How to reach me @linkedin - linkedin.com/in/sukanya-mukherjee-a8850587
 
