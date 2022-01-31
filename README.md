@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sukanya Mukherjee
 - 👀 I’m studying Business Analytics @ Seneca College, Toronto
-- 🌱 I’m currently learning Numpy, Pandas, SQL, SAS, PowerBI and Tableau
+- 🌱 I’m currently learning Python, SQL, SAS, PowerBI, R and Tableau
 - 💞️ I’m looking to collaborate on Assignments and Open Projects
 - 📫 How to reach me @linkedin - https://www.linkedin.com/in/sukanyaseneca/
 
